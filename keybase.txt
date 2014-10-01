@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/thomas_moulard
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://moulard.net
+  * I am thomas_moulard (https://keybase.io/thomas_moulard) on keybase.
+  * I have a public key with fingerprint 0415 9C24 FAA2 1BCD 25EE  BFB3 516F C68F 3149 6D58
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "04159c24faa21bcd25eebfb3516fc68f31496d58",
+            "host": "keybase.io",
+            "key_id": "516fc68f31496d58",
+            "uid": "0254ace10af62beda6bd9120a97e7e00",
+            "username": "thomas_moulard"
+        },
+        "service": {
+            "hostname": "moulard.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412176023,
+    "expire_in": 157680000,
+    "prev": "446684b3fb00d5b7467fe9d2725a48a1980ba61482a1a7a7dd4f12557199ac5e",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+Comment: GPGTools - http://gpgtools.org
+
+owFtkVtIFFEYx3dTEzcFqaCgID31oLbqnNkztw1LCsEWLCTN0oftzMyZ3SF3Zpsd
+b6kpJZVCXgLtYpdN6qkLSJgkdCGwQKMiehISwdZAqcSITRJtRuyt83I43//3/c//
+4+tOS3C4nKX66y54MHTMOf4yLjrK3Fv7G4Goyw3A2whOktVLUbUAMcKGqpnACygE
+GUGikYIxDUVJphlCREX0MJBVJJZXPBAJrMzwwA2CesTusGxEHCF5qm7VrIdfla3q
+f/iaVYGiGYQlAimssLRIZMyKsgBpCgsc4QhF2WCEGBoOEYs2g3oIR/whvaYaGzJo
+dgNLq1UlYie3A6xxa0CeRkzLIGzopi7p1ZYQNM2w1+4zG8I2WEdE/5qFX1Q12Rre
+aqglRkTVNeCFFimZqu0JEaQhx1K0xw1IfVg1iF+1CYZjeco69jek1rJEiGV5JHoU
+kaJkRuQQyylEkGmOZjDiMRR4SsQsRDyNIeYwJ8tIgTTDcFAQsMQQYA91StOBF1kx
+ccCyjKgBDZs1BgHNrnbn9kSH0+VYn7TO3p/DlZL+b6v1m5OXCy6XNM0U0isVr7J3
+FbWfbcvt6wzOSYY0uGF24RfV9blq5+gQejK2u4fnuITCTbM/FptCBS+2pAe+3PjT
+q9+ePMNMVTWM3F/ubCsafr5DjpZ0uK/5fXX7Wm/mgP7r8d6CPXiAOQFLj2aMPgXx
+C3MX73o/xY3Y4O9nb/XhmPRtIOvSSONUdBq2LPoqY+PdI95J9OB8z349aSpcVlU+
+lpUi5x94n9aRO5Q5v/fqncenJ6ofbox+rDyS35A3PZHRVlzS/W68cybbee/WoZaK
+D8V9k48Sl46fW2BRud76JtlXFp0fzolqM4WHUzN99VLO7rltMddS6srXn47vsSvT
+7F8=
+=Q0sc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thomas_moulard
+
+==================================================================
